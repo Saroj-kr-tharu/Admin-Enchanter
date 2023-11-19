@@ -1,6 +1,6 @@
 
-# 🛠️👑👨🏻‍💼 Windows Admin Panel 
-#### Welcome to Windows Admin Panel  Which Is Console Based Application Based in C++  For Control User.
+# 🛠️👑👨🏻‍💼 Admin Enchanter 
+#### Welcome to User Account Manager  Which Is Console Based Application Based in C++ . It System Administrator Tool to manage User Account in Windows.
 
 
 ## 🌐 Technologies Used
@@ -21,7 +21,7 @@ Follow the steps to set up and run the project on your local machine
 
   ### 1. Clone the Repository
   ```bash
-https://github.com/Saroj-kr-tharu/Windows-pass-Changer------C-.git
+git clone https://github.com/Saroj-kr-tharu/Admin-Enchanter.git
  ```
 
  ### 2. Compile The C++ Code
